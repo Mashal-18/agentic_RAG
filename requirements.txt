@@ -1,0 +1,11 @@
+langchain
+langchain-community
+tavily-python
+PyPDF2
+requests
+python-dotenv
+openai
+requests
+scikit-learn
+transformers
+torch
