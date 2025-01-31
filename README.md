@@ -1,1 +1,2 @@
-# agentic_RAG
+# agentic_RAG Implementation
+This project implements an Ageic RAG (Retriever-Augmented Generation) system where a manager agent intelligently decides whether to forward a user's query to PDF LLM (Large Language Model) or Tavily. The system processes different types of queries, with PDF-related queries being directed to PDF LLM for detailed document extraction, and other general queries being handled by Tavily. This setup allows for a dynamic and context-aware response generation, ensuring users get accurate and relevant answers based on the type of query they provide.
